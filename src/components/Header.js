@@ -16,7 +16,6 @@ const Header = () => {
       <LinkContainer to='/balance'>
         <Nav.Link>
         $99.99
-        {/* <i className='fas fa-shopping-cart'></i>Cart */}
         </Nav.Link>
       </LinkContainer>
       <LinkContainer to='/login'>
